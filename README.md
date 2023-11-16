@@ -18,3 +18,11 @@ I am a fullstack software engineer & offensive security engineer, who has worked
 
 - Artifical intelligence and machine learning
 - How to navigate the world of startups, funding, private equity and venture capitalists 
+
+<br />
+
+**🏅 Certifications I currently hold:**
+- Certified Red Team Operator (CRTO)
+- Certified Red Team Professional (CRTP)
+- Certified Red Team Expert (CRTE)
+- Security +
