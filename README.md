@@ -22,7 +22,7 @@ I am a fullstack software engineer & offensive security engineer, who has worked
 <br />
 
 **🏅 Certifications I currently hold:**
+- Security +
 - Certified Red Team Operator (CRTO)
 - Certified Red Team Professional (CRTP)
 - Certified Red Team Expert (CRTE)
-- Security +
